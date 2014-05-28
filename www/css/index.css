@@ -1,0 +1,41 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px;
+    padding: 0;
+    color: black; font-size: 10pt; font-family: "Trebuchet MS", sans-serif;
+    background-color: #E2E2E2;
+}
+div {
+    text-align:center;
+    position: absolute;
+    width: 100%;
+}
+
+p {
+    text-align: center;
+    vertical-align: middle;
+    color : white;
+    font: verdana;
+    font-size: 50pt;
+}
+
+#logo {
+    background-color: #e5e20a;
+    top: 0%;
+    height: 70%;
+}
+
+#signin {
+    background-color: #3cb2e2;
+    top: 70%;
+    height: 15%;
+}
+#signup {
+    background-color: #e92454;
+    top: 85%;
+    height: 15%;
+}
